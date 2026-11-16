@@ -1,0 +1,19 @@
+{
+    "code": 200,
+    "data": {
+        "game_lowest_version": "2.0.0",
+        "game_latest_version": "2.0.0",
+        "game_latest_file_path": "prod/ZIP_TEMP/StellaSora_JP_TEMP/StellaSora_JP-2.0.0-game.zip",
+        "game_start_exe_name": "StellaSora",
+        "game_file_size": "",
+        "game_file_size_type": "",
+        "crc64": "",
+        "size": 0,
+        "file_url": "",
+        "decompression_size": "22GB",
+        "config_id": 0,
+        "game_start_params": [],
+        "game_uninstall_script": ""
+    },
+    "msg": "OK"
+}
