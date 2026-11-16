@@ -1,0 +1,748 @@
+{
+  "win": [
+    {
+      "version": 47,
+      "ap": "6c42de62dec7c3bc48e9f3ad06134945",
+      "files": 6939
+    },
+    {
+      "version": 66,
+      "ap": "b85686da45077ff49b4adf405a43f271",
+      "files": 338
+    },
+    {
+      "version": 71,
+      "ap": "321bd08ecfe49757e45c44f93de2c3b8",
+      "files": 850
+    },
+    {
+      "version": 72,
+      "ap": "0b5362867486ea4f384933fafb081528",
+      "files": 1
+    },
+    {
+      "version": 77,
+      "ap": "c914a737c7e4b024aec9770335f6a46d",
+      "files": 138
+    },
+    {
+      "version": 78,
+      "ap": "ea627000007ddaa9fb6abb6dbf0043c5",
+      "files": 264
+    },
+    {
+      "version": 80,
+      "ap": "82424f39cd94fffea1ba089d4370c589",
+      "files": 213
+    },
+    {
+      "version": 83,
+      "ap": "316f9c0fdeba9a0b64ca5231545da5a3",
+      "files": 309
+    },
+    {
+      "version": 85,
+      "ap": "fb31331c4eed4e9b83afdaeeadbf0456",
+      "files": 1
+    },
+    {
+      "version": 87,
+      "ap": "c471c8b2671e79da31176e14913b0547",
+      "files": 246
+    },
+    {
+      "version": 95,
+      "ap": "75d1bb84d2623d6e59bd6c5608294cea",
+      "files": 515
+    },
+    {
+      "version": 99,
+      "ap": "1544b8849c84470ded253178e7165deb",
+      "files": 3052
+    },
+    {
+      "version": 103,
+      "ap": "cebb37ddf8be1f3ea0f95c4c1d4bf5bd",
+      "files": 7
+    },
+    {
+      "version": 104,
+      "ap": "759884e6b35be5a1b826b8b25106ec82",
+      "files": 1
+    },
+    {
+      "version": 105,
+      "ap": "3da822b6e0c5f527a8d63247f05e4185",
+      "files": 35
+    },
+    {
+      "version": 106,
+      "ap": "c823b804c24d912e080d07558ee4c139",
+      "files": 222
+    },
+    {
+      "version": 107,
+      "ap": "c917548088e58c46dc20b7d98435652b",
+      "files": 889
+    },
+    {
+      "version": 110,
+      "ap": "dee8394e77816970d20c0177a4032b77",
+      "files": 8
+    },
+    {
+      "version": 112,
+      "ap": "cfc758531348e481b2f77f2ea6a318be",
+      "files": 5
+    },
+    {
+      "version": 113,
+      "ap": "8f664999adeda4797889fd88ea3cf859",
+      "files": 642
+    },
+    {
+      "version": 115,
+      "ap": "0d4462d060f61ee5e533ad26ee9bf88e",
+      "files": 9
+    },
+    {
+      "version": 117,
+      "ap": "827b37fc018a807e315a63ef81d3f4f5",
+      "files": 3
+    },
+    {
+      "version": 118,
+      "ap": "269c79ff59c31d358eda7286da7033de",
+      "files": 6
+    },
+    {
+      "version": 119,
+      "ap": "3bfc9ecaffae9117683be2f60efd5d79",
+      "files": 2
+    },
+    {
+      "version": 120,
+      "ap": "8ef9c0b9f4a44cf1455fbf6999b8b319",
+      "files": 953
+    },
+    {
+      "version": 122,
+      "ap": "6cc563c13a80ff8cd9dee8668ac808cc",
+      "files": 8
+    },
+    {
+      "version": 123,
+      "ap": "ff3768ee024785d76def7ce33831c82d",
+      "files": 6
+    },
+    {
+      "version": 124,
+      "ap": "d8d0ab9f31c1322c0ad3b53e163cfe46",
+      "files": 1912
+    },
+    {
+      "version": 126,
+      "ap": "f18edac9cbce83cfbc998ae4068e3e8c",
+      "files": 14
+    },
+    {
+      "version": 127,
+      "ap": "9f81def691700c9242f74e263b3d6f05",
+      "files": 39
+    },
+    {
+      "version": 128,
+      "ap": "6a5522f58301d18082e1888263e8e555",
+      "files": 539
+    },
+    {
+      "version": 129,
+      "ap": "c0bc93af7b8ac88287a1c256dc2e4900",
+      "files": 410
+    },
+    {
+      "version": 131,
+      "ap": "4b70591260f1474793f04dbf33e41c1f",
+      "files": 3
+    },
+    {
+      "version": 132,
+      "ap": "e8e21f7997a2064f98d122923cbdb0a6",
+      "files": 21
+    },
+    {
+      "version": 134,
+      "ap": "a5caed846c0939f34e0e0fceb9d6d0a2",
+      "files": 1082
+    },
+    {
+      "version": 137,
+      "ap": "b9d8b5781024e8a63cbac8109e36283c",
+      "files": 22
+    },
+    {
+      "version": 138,
+      "ap": "fdfd29b252f45aca70a542ff3706202a",
+      "files": 755
+    },
+    {
+      "version": 139,
+      "ap": "e3be07ab16a5672b86e5aa41bd89a1e5",
+      "files": 3
+    },
+    {
+      "version": 140,
+      "ap": "1fd99ac288804232e91da3145d077c60",
+      "files": 288
+    },
+    {
+      "version": 141,
+      "ap": "d4e5725007c699c364f00b1dc828e3cd",
+      "files": 7216
+    },
+    {
+      "version": 143,
+      "ap": "d689a3e2c7305afd3e78b46c1e69a2ce",
+      "files": 7
+    },
+    {
+      "version": 144,
+      "ap": "97d5ad7b8ecb55ee660d98bd91590c7a",
+      "files": 33
+    },
+    {
+      "version": 145,
+      "ap": "73d0a5ed73c7b5507c8ffb0fd25af693",
+      "files": 47
+    },
+    {
+      "version": 146,
+      "ap": "2b96ea0a1e0d0c676dd2a1146afc1926",
+      "files": 24
+    },
+    {
+      "version": 147,
+      "ap": "d362187a630bd85385eb3c8d622c6abf",
+      "files": 1136
+    },
+    {
+      "version": 148,
+      "ap": "4518149b717a81be84cb521b8faf3f49",
+      "files": 5
+    },
+    {
+      "version": 149,
+      "ap": "0138505f9df5f74df01aa0222458278a",
+      "files": 6
+    }
+  ],
+  "and": [
+    {
+      "version": 47,
+      "ap": "6c42de62dec7c3bc48e9f3ad06134945",
+      "files": 6939
+    },
+    {
+      "version": 66,
+      "ap": "b85686da45077ff49b4adf405a43f271",
+      "files": 338
+    },
+    {
+      "version": 71,
+      "ap": "321bd08ecfe49757e45c44f93de2c3b8",
+      "files": 850
+    },
+    {
+      "version": 72,
+      "ap": "0b5362867486ea4f384933fafb081528",
+      "files": 1
+    },
+    {
+      "version": 77,
+      "ap": "c914a737c7e4b024aec9770335f6a46d",
+      "files": 138
+    },
+    {
+      "version": 78,
+      "ap": "ea627000007ddaa9fb6abb6dbf0043c5",
+      "files": 264
+    },
+    {
+      "version": 80,
+      "ap": "82424f39cd94fffea1ba089d4370c589",
+      "files": 213
+    },
+    {
+      "version": 83,
+      "ap": "316f9c0fdeba9a0b64ca5231545da5a3",
+      "files": 309
+    },
+    {
+      "version": 85,
+      "ap": "fb31331c4eed4e9b83afdaeeadbf0456",
+      "files": 1
+    },
+    {
+      "version": 87,
+      "ap": "c471c8b2671e79da31176e14913b0547",
+      "files": 246
+    },
+    {
+      "version": 95,
+      "ap": "75d1bb84d2623d6e59bd6c5608294cea",
+      "files": 515
+    },
+    {
+      "version": 99,
+      "ap": "1544b8849c84470ded253178e7165deb",
+      "files": 3052
+    },
+    {
+      "version": 103,
+      "ap": "cebb37ddf8be1f3ea0f95c4c1d4bf5bd",
+      "files": 7
+    },
+    {
+      "version": 104,
+      "ap": "759884e6b35be5a1b826b8b25106ec82",
+      "files": 1
+    },
+    {
+      "version": 105,
+      "ap": "3da822b6e0c5f527a8d63247f05e4185",
+      "files": 35
+    },
+    {
+      "version": 106,
+      "ap": "c823b804c24d912e080d07558ee4c139",
+      "files": 220
+    },
+    {
+      "version": 107,
+      "ap": "c917548088e58c46dc20b7d98435652b",
+      "files": 892
+    },
+    {
+      "version": 110,
+      "ap": "dee8394e77816970d20c0177a4032b77",
+      "files": 8
+    },
+    {
+      "version": 112,
+      "ap": "cfc758531348e481b2f77f2ea6a318be",
+      "files": 5
+    },
+    {
+      "version": 113,
+      "ap": "8f664999adeda4797889fd88ea3cf859",
+      "files": 685
+    },
+    {
+      "version": 115,
+      "ap": "0d4462d060f61ee5e533ad26ee9bf88e",
+      "files": 6
+    },
+    {
+      "version": 116,
+      "ap": "5dab953b1d83fbea7fee53a331ccf19f",
+      "files": 1
+    },
+    {
+      "version": 118,
+      "ap": "269c79ff59c31d358eda7286da7033de",
+      "files": 6
+    },
+    {
+      "version": 119,
+      "ap": "3bfc9ecaffae9117683be2f60efd5d79",
+      "files": 2
+    },
+    {
+      "version": 120,
+      "ap": "8ef9c0b9f4a44cf1455fbf6999b8b319",
+      "files": 961
+    },
+    {
+      "version": 122,
+      "ap": "6cc563c13a80ff8cd9dee8668ac808cc",
+      "files": 8
+    },
+    {
+      "version": 123,
+      "ap": "ff3768ee024785d76def7ce33831c82d",
+      "files": 6
+    },
+    {
+      "version": 124,
+      "ap": "d8d0ab9f31c1322c0ad3b53e163cfe46",
+      "files": 1907
+    },
+    {
+      "version": 126,
+      "ap": "f18edac9cbce83cfbc998ae4068e3e8c",
+      "files": 14
+    },
+    {
+      "version": 127,
+      "ap": "9f81def691700c9242f74e263b3d6f05",
+      "files": 39
+    },
+    {
+      "version": 128,
+      "ap": "6a5522f58301d18082e1888263e8e555",
+      "files": 539
+    },
+    {
+      "version": 129,
+      "ap": "c0bc93af7b8ac88287a1c256dc2e4900",
+      "files": 432
+    },
+    {
+      "version": 131,
+      "ap": "4b70591260f1474793f04dbf33e41c1f",
+      "files": 3
+    },
+    {
+      "version": 132,
+      "ap": "e8e21f7997a2064f98d122923cbdb0a6",
+      "files": 21
+    },
+    {
+      "version": 134,
+      "ap": "a5caed846c0939f34e0e0fceb9d6d0a2",
+      "files": 1087
+    },
+    {
+      "version": 136,
+      "ap": "fc0402324d6c7f509c94a3d09e983e82",
+      "files": 5
+    },
+    {
+      "version": 137,
+      "ap": "b9d8b5781024e8a63cbac8109e36283c",
+      "files": 21
+    },
+    {
+      "version": 138,
+      "ap": "fdfd29b252f45aca70a542ff3706202a",
+      "files": 755
+    },
+    {
+      "version": 139,
+      "ap": "e3be07ab16a5672b86e5aa41bd89a1e5",
+      "files": 3
+    },
+    {
+      "version": 140,
+      "ap": "1fd99ac288804232e91da3145d077c60",
+      "files": 288
+    },
+    {
+      "version": 141,
+      "ap": "d4e5725007c699c364f00b1dc828e3cd",
+      "files": 7222
+    },
+    {
+      "version": 143,
+      "ap": "d689a3e2c7305afd3e78b46c1e69a2ce",
+      "files": 7
+    },
+    {
+      "version": 144,
+      "ap": "97d5ad7b8ecb55ee660d98bd91590c7a",
+      "files": 33
+    },
+    {
+      "version": 145,
+      "ap": "73d0a5ed73c7b5507c8ffb0fd25af693",
+      "files": 47
+    },
+    {
+      "version": 146,
+      "ap": "2b96ea0a1e0d0c676dd2a1146afc1926",
+      "files": 24
+    },
+    {
+      "version": 147,
+      "ap": "d362187a630bd85385eb3c8d622c6abf",
+      "files": 1133
+    },
+    {
+      "version": 148,
+      "ap": "4518149b717a81be84cb521b8faf3f49",
+      "files": 5
+    },
+    {
+      "version": 149,
+      "ap": "0138505f9df5f74df01aa0222458278a",
+      "files": 6
+    }
+  ],
+  "ios": [
+    {
+      "version": 4,
+      "ap": "1778aac18efbaa4732eaad35616186f2",
+      "files": 6116
+    },
+    {
+      "version": 7,
+      "ap": "65ade5597f5a612d5eed3808e3de4c41",
+      "files": 90
+    },
+    {
+      "version": 13,
+      "ap": "cbc0a53d9d4d090182c14f742d5ced5e",
+      "files": 1
+    },
+    {
+      "version": 47,
+      "ap": "6c42de62dec7c3bc48e9f3ad06134945",
+      "files": 731
+    },
+    {
+      "version": 66,
+      "ap": "b85686da45077ff49b4adf405a43f271",
+      "files": 338
+    },
+    {
+      "version": 71,
+      "ap": "321bd08ecfe49757e45c44f93de2c3b8",
+      "files": 850
+    },
+    {
+      "version": 72,
+      "ap": "0b5362867486ea4f384933fafb081528",
+      "files": 1
+    },
+    {
+      "version": 77,
+      "ap": "c914a737c7e4b024aec9770335f6a46d",
+      "files": 138
+    },
+    {
+      "version": 78,
+      "ap": "ea627000007ddaa9fb6abb6dbf0043c5",
+      "files": 264
+    },
+    {
+      "version": 80,
+      "ap": "82424f39cd94fffea1ba089d4370c589",
+      "files": 213
+    },
+    {
+      "version": 83,
+      "ap": "316f9c0fdeba9a0b64ca5231545da5a3",
+      "files": 309
+    },
+    {
+      "version": 85,
+      "ap": "fb31331c4eed4e9b83afdaeeadbf0456",
+      "files": 1
+    },
+    {
+      "version": 87,
+      "ap": "c471c8b2671e79da31176e14913b0547",
+      "files": 246
+    },
+    {
+      "version": 95,
+      "ap": "75d1bb84d2623d6e59bd6c5608294cea",
+      "files": 515
+    },
+    {
+      "version": 99,
+      "ap": "1544b8849c84470ded253178e7165deb",
+      "files": 3051
+    },
+    {
+      "version": 103,
+      "ap": "cebb37ddf8be1f3ea0f95c4c1d4bf5bd",
+      "files": 7
+    },
+    {
+      "version": 104,
+      "ap": "759884e6b35be5a1b826b8b25106ec82",
+      "files": 1
+    },
+    {
+      "version": 105,
+      "ap": "3da822b6e0c5f527a8d63247f05e4185",
+      "files": 35
+    },
+    {
+      "version": 106,
+      "ap": "c823b804c24d912e080d07558ee4c139",
+      "files": 220
+    },
+    {
+      "version": 107,
+      "ap": "c917548088e58c46dc20b7d98435652b",
+      "files": 860
+    },
+    {
+      "version": 110,
+      "ap": "dee8394e77816970d20c0177a4032b77",
+      "files": 25
+    },
+    {
+      "version": 112,
+      "ap": "cfc758531348e481b2f77f2ea6a318be",
+      "files": 2
+    },
+    {
+      "version": 113,
+      "ap": "8f664999adeda4797889fd88ea3cf859",
+      "files": 691
+    },
+    {
+      "version": 114,
+      "ap": "cd77f6ad0075bdcbdfbc8453c8163652",
+      "files": 4
+    },
+    {
+      "version": 115,
+      "ap": "0d4462d060f61ee5e533ad26ee9bf88e",
+      "files": 6
+    },
+    {
+      "version": 116,
+      "ap": "5dab953b1d83fbea7fee53a331ccf19f",
+      "files": 1
+    },
+    {
+      "version": 118,
+      "ap": "269c79ff59c31d358eda7286da7033de",
+      "files": 6
+    },
+    {
+      "version": 119,
+      "ap": "3bfc9ecaffae9117683be2f60efd5d79",
+      "files": 2
+    },
+    {
+      "version": 120,
+      "ap": "8ef9c0b9f4a44cf1455fbf6999b8b319",
+      "files": 948
+    },
+    {
+      "version": 122,
+      "ap": "6cc563c13a80ff8cd9dee8668ac808cc",
+      "files": 8
+    },
+    {
+      "version": 123,
+      "ap": "ff3768ee024785d76def7ce33831c82d",
+      "files": 6
+    },
+    {
+      "version": 124,
+      "ap": "d8d0ab9f31c1322c0ad3b53e163cfe46",
+      "files": 1909
+    },
+    {
+      "version": 126,
+      "ap": "f18edac9cbce83cfbc998ae4068e3e8c",
+      "files": 14
+    },
+    {
+      "version": 127,
+      "ap": "9f81def691700c9242f74e263b3d6f05",
+      "files": 39
+    },
+    {
+      "version": 128,
+      "ap": "6a5522f58301d18082e1888263e8e555",
+      "files": 539
+    },
+    {
+      "version": 129,
+      "ap": "c0bc93af7b8ac88287a1c256dc2e4900",
+      "files": 436
+    },
+    {
+      "version": 131,
+      "ap": "4b70591260f1474793f04dbf33e41c1f",
+      "files": 3
+    },
+    {
+      "version": 132,
+      "ap": "e8e21f7997a2064f98d122923cbdb0a6",
+      "files": 23
+    },
+    {
+      "version": 133,
+      "ap": "df803b29dd7416980bd8c1329e5f7bbe",
+      "files": 6
+    },
+    {
+      "version": 134,
+      "ap": "a5caed846c0939f34e0e0fceb9d6d0a2",
+      "files": 1076
+    },
+    {
+      "version": 136,
+      "ap": "fc0402324d6c7f509c94a3d09e983e82",
+      "files": 5
+    },
+    {
+      "version": 137,
+      "ap": "b9d8b5781024e8a63cbac8109e36283c",
+      "files": 21
+    },
+    {
+      "version": 138,
+      "ap": "fdfd29b252f45aca70a542ff3706202a",
+      "files": 757
+    },
+    {
+      "version": 139,
+      "ap": "e3be07ab16a5672b86e5aa41bd89a1e5",
+      "files": 3
+    },
+    {
+      "version": 140,
+      "ap": "1fd99ac288804232e91da3145d077c60",
+      "files": 288
+    },
+    {
+      "version": 141,
+      "ap": "d4e5725007c699c364f00b1dc828e3cd",
+      "files": 7221
+    },
+    {
+      "version": 143,
+      "ap": "d689a3e2c7305afd3e78b46c1e69a2ce",
+      "files": 7
+    },
+    {
+      "version": 144,
+      "ap": "97d5ad7b8ecb55ee660d98bd91590c7a",
+      "files": 33
+    },
+    {
+      "version": 145,
+      "ap": "73d0a5ed73c7b5507c8ffb0fd25af693",
+      "files": 47
+    },
+    {
+      "version": 146,
+      "ap": "2b96ea0a1e0d0c676dd2a1146afc1926",
+      "files": 24
+    },
+    {
+      "version": 147,
+      "ap": "d362187a630bd85385eb3c8d622c6abf",
+      "files": 1334
+    },
+    {
+      "version": 148,
+      "ap": "4518149b717a81be84cb521b8faf3f49",
+      "files": 5
+    },
+    {
+      "version": 149,
+      "ap": "0138505f9df5f74df01aa0222458278a",
+      "files": 6
+    }
+  ]
+}
