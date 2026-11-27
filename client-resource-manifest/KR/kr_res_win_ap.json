@@ -14493,7 +14493,6 @@
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_n.vo_story_140_013_catchphrase_jp.wem",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_n.vo_story_140_014_catchphrase_cn.wem",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_n.vo_story_140_014_catchphrase_jp.wem",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.AVG.bnk",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.Ambience_Common.bnk",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.Character_11501.cn.bnk",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.Character_11501.en.bnk",
@@ -14502,13 +14501,9 @@
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.Mode_Rouguang.bnk",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.Monster_72001.bnk",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.Monster_72002.bnk",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.Music_AVG.bnk",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.Music_Combat.bnk",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.Music_Outfit.bnk",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.Music_System.bnk",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.UI_System.bnk",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.actor_l2d_common.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.audio.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.char_2d_10301.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.char_2d_10302.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.char_2d_10303.unity3d",
@@ -14682,7 +14677,6 @@
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.char_avg_2d_avg2_993.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.char_avg_2d_avg2_994.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.char_avg_2d_avg2_999.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.char_avg_2d_avg3_100.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.char_avg_2d_avg3_101.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.char_avg_2d_avg3_102.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.char_avg_2d_avg3_108.unity3d",
@@ -14773,36 +14767,21 @@
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.char_avg_2d_avg4_103.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.char_avg_2d_avg4_999.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.city_main_1_5.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.data.arcx",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.disc_4003.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.font.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-0.kr.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-0.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-1.kr.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-1.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-2.kr.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-2.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-3.kr.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-3.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-4.kr.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-4.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-5.kr.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-5.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-6.kr.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-6.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-7.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-8.kr.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-8.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-9.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-a.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-b.kr.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-b.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-c.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-d.kr.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-d.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-e.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-f.kr.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.icon-f.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.imageavg-0b.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.imageavg-35.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.imageavg-43.unity3d",
@@ -14832,7 +14811,6 @@
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.npc_2d_917302.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.npc_2d_917401.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.npc_2d_917402.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.res_meta.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.roguelike_2_boss_005_assets.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.roguelike_4_boss_001.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.storyactivity_11_006_a_01.unity3d",
@@ -14860,8 +14838,6 @@
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.ui_avg.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.ui_battle.kr.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.ui_battle.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.ui_big_sprites.kr.unity3d",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.ui_big_sprites.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.ui_characterinfoex.kr.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.ui_characterinfoex.unity3d",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.ui_characterinfotrial.kr.unity3d",
@@ -14890,8 +14866,7 @@
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.vo_115_combat_ultskill_002_cn.wem",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.vo_115_combat_ultskill_002_jp.wem",
       "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.vo_149_ui_posterchat_002_jp.wem",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.vo_149_ui_yourbirth_001_jp.wem",
-      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.win.unity3d"
+      "https://nova-static.stellasora.kr/res/win/118/a5dfccfd1210c0bccc465f84ba459031/p_12_u.vo_149_ui_yourbirth_001_jp.wem"
     ]
   },
   "120": {
@@ -20729,13 +20704,6 @@
       "https://nova-static.stellasora.kr/res/win/143/53feb9ba8bba6ad92fdc53a6310a2876/p_11_u.ui_play_towerdefence.kr.unity3d",
       "https://nova-static.stellasora.kr/res/win/143/53feb9ba8bba6ad92fdc53a6310a2876/p_11_u.ui_play_towerdefence.unity3d",
       "https://nova-static.stellasora.kr/res/win/143/53feb9ba8bba6ad92fdc53a6310a2876/p_11_u.win.unity3d"
-    ]
-  },
-  "144": {
-    "ef188589b6b5a2ebf57c72a57a4d6600": [
-      "https://nova-static.stellasora.kr/res/win/144/ef188589b6b5a2ebf57c72a57a4d6600/p_12_m.ss_win.mani",
-      "https://nova-static.stellasora.kr/res/win/144/ef188589b6b5a2ebf57c72a57a4d6600/p_12_u.hotfix.arch",
-      "https://nova-static.stellasora.kr/res/win/144/ef188589b6b5a2ebf57c72a57a4d6600/p_12_u.lua.arcx"
     ]
   },
   "145": {
@@ -29523,8 +29491,7 @@
       "https://nova-static.stellasora.kr/res/win/154/b3deb1feec429ed5fdcb73e90b9cfe3c/p_7_u.ui_startowerbuild.kr.unity3d",
       "https://nova-static.stellasora.kr/res/win/154/b3deb1feec429ed5fdcb73e90b9cfe3c/p_7_u.ui_startowerbuild.unity3d",
       "https://nova-static.stellasora.kr/res/win/154/b3deb1feec429ed5fdcb73e90b9cfe3c/p_7_u.ui_transitionex.unity3d",
-      "https://nova-static.stellasora.kr/res/win/154/b3deb1feec429ed5fdcb73e90b9cfe3c/p_7_u.win.unity3d",
-      "https://nova-static.stellasora.kr/res/win/154/b3deb1feec429ed5fdcb73e90b9cfe3c/ss_win_add.mani"
+      "https://nova-static.stellasora.kr/res/win/154/b3deb1feec429ed5fdcb73e90b9cfe3c/p_7_u.win.unity3d"
     ]
   },
   "155": {
@@ -29556,13 +29523,70 @@
     "f1d4ab9aa8cf1a6602ff6f14b87ff530": [
       "https://nova-static.stellasora.kr/res/win/158/f1d4ab9aa8cf1a6602ff6f14b87ff530/p_11_m.ss_win.mani",
       "https://nova-static.stellasora.kr/res/win/158/f1d4ab9aa8cf1a6602ff6f14b87ff530/p_11_u.hotfix.arch",
-      "https://nova-static.stellasora.kr/res/win/158/f1d4ab9aa8cf1a6602ff6f14b87ff530/p_11_u.lua.arcx",
-      "https://nova-static.stellasora.kr/res/win/158/f1d4ab9aa8cf1a6602ff6f14b87ff530/ss_win.mani"
+      "https://nova-static.stellasora.kr/res/win/158/f1d4ab9aa8cf1a6602ff6f14b87ff530/p_11_u.lua.arcx"
     ]
   },
   "159": {
     "df78d6cd0a54704dec2dc59bbd7aa4d2": [
       "https://nova-static.stellasora.kr/res/win/159/df78d6cd0a54704dec2dc59bbd7aa4d2/_sys_cache_8492a"
+    ]
+  },
+  "160": {
+    "b280eea6eab70cbde84ce5fa50ccb547": [
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_m.ss_win.mani",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_n.1057454524.media.wem",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_n.191820588.media.wem",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_n.379441973.media.wem",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_n.char_2d_10803.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_n.char_l2d_10803.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_n.image-e4.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.1062780399.media.wem",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.391828197.media.wem",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.459044822.media.wem",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.AVG.bnk",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.Home.bnk",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.Music_AVG.bnk",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.Music_Outfit.bnk",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.Music_System.bnk",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.audio.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.cg_2019.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.char_2d_16101.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.char_avg_2d_avg1_161.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.char_avg_2d_avg3_100.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.char_l2d_16101.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.data.arcx",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.font.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.hotfix.arch",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.icon-0.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.icon-2.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.icon-3.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.icon-4.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.icon-5.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.icon-6.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.icon-7.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.icon-8.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.icon-9.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.icon-a.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.icon-c.kr.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.icon-c.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.icon-e.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.icon-f.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.imageavg-81.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.lua.arcx",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.mons_30931hasana_fx.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.res_meta.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.roguelike_4_boss_002_assets.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.storyactivity_17_boss_d_01_assets.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.storyactivity_9_boss_hasana_assets.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.ui_activity__201019.kr.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.ui_activity__201019.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.ui_big_sprites.kr.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.ui_big_sprites.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.ui_dorm.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.ui_soldier.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/p_12_u.win.unity3d",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/ss_win.mani",
+      "https://nova-static.stellasora.kr/res/win/160/b280eea6eab70cbde84ce5fa50ccb547/ss_win_add.mani"
     ]
   }
 }

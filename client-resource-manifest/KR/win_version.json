@@ -1,9 +1,9 @@
 {
     "KR": {
         "client_ver": "2.0.0",
-        "game_ver": "2.1.0",
-        "patch_num": "11",
-        "patch_ver": "158",
-        "version_str": "[c2.0.0_g2.1.0_p11]"
+        "game_ver": "2.1.1",
+        "patch_num": "12",
+        "patch_ver": "160",
+        "version_str": "[c2.0.0_g2.1.1_p12]"
     }
 }
