@@ -13909,7 +13909,6 @@
   "113": {
     "88304e99ea0c14db3aec9692e76db716": [
       "https://nova-static.yostar.cn/res/and/113/88304e99ea0c14db3aec9692e76db716/p_10_u.char_2d_11601.unity3d",
-      "https://nova-static.yostar.cn/res/and/113/88304e99ea0c14db3aec9692e76db716/p_10_u.icon-c.unity3d",
       "https://nova-static.yostar.cn/res/and/113/88304e99ea0c14db3aec9692e76db716/p_10_u.ui_mainlineex.unity3d"
     ]
   },
@@ -19689,23 +19688,16 @@
   },
   "135": {
     "b8d639225a6678de2c66bab412ee2b16": [
-      "https://nova-static.yostar.cn/res/and/135/b8d639225a6678de2c66bab412ee2b16/p_10_m.ss_and.mani",
-      "https://nova-static.yostar.cn/res/and/135/b8d639225a6678de2c66bab412ee2b16/p_10_u.and.unity3d",
       "https://nova-static.yostar.cn/res/and/135/b8d639225a6678de2c66bab412ee2b16/p_10_u.char_10704.unity3d",
-      "https://nova-static.yostar.cn/res/and/135/b8d639225a6678de2c66bab412ee2b16/p_10_u.char_10704_timeline.unity3d",
-      "https://nova-static.yostar.cn/res/and/135/b8d639225a6678de2c66bab412ee2b16/p_10_u.hotfix.arch"
+      "https://nova-static.yostar.cn/res/and/135/b8d639225a6678de2c66bab412ee2b16/p_10_u.char_10704_timeline.unity3d"
     ]
   },
   "136": {
     "71d2e7f455be27d17c5d2ef40e9def65": [
-      "https://nova-static.yostar.cn/res/and/136/71d2e7f455be27d17c5d2ef40e9def65/p_11_m.ss_and.mani",
-      "https://nova-static.yostar.cn/res/and/136/71d2e7f455be27d17c5d2ef40e9def65/p_11_u.and.unity3d",
       "https://nova-static.yostar.cn/res/and/136/71d2e7f455be27d17c5d2ef40e9def65/p_11_u.char_10704_animations.unity3d",
       "https://nova-static.yostar.cn/res/and/136/71d2e7f455be27d17c5d2ef40e9def65/p_11_u.char_10704_timeline.unity3d",
       "https://nova-static.yostar.cn/res/and/136/71d2e7f455be27d17c5d2ef40e9def65/p_11_u.char_2d_10701.unity3d",
       "https://nova-static.yostar.cn/res/and/136/71d2e7f455be27d17c5d2ef40e9def65/p_11_u.char_l2d_10701.unity3d",
-      "https://nova-static.yostar.cn/res/and/136/71d2e7f455be27d17c5d2ef40e9def65/p_11_u.data.arcx",
-      "https://nova-static.yostar.cn/res/and/136/71d2e7f455be27d17c5d2ef40e9def65/p_11_u.hotfix.arch",
       "https://nova-static.yostar.cn/res/and/136/71d2e7f455be27d17c5d2ef40e9def65/p_11_u.jointdrill_03.unity3d",
       "https://nova-static.yostar.cn/res/and/136/71d2e7f455be27d17c5d2ef40e9def65/p_11_u.lua.arcx",
       "https://nova-static.yostar.cn/res/and/136/71d2e7f455be27d17c5d2ef40e9def65/p_11_u.mons_72012moshushi_nv.unity3d",
@@ -29016,8 +29008,7 @@
       "https://nova-static.yostar.cn/res/and/147/810a057adba941ec272116e29cdcb264/p_7_u.ui_skillinstancebattlepanel.unity3d",
       "https://nova-static.yostar.cn/res/and/147/810a057adba941ec272116e29cdcb264/p_7_u.ui_soldier.unity3d",
       "https://nova-static.yostar.cn/res/and/147/810a057adba941ec272116e29cdcb264/p_7_u.ui_startowerbuild.unity3d",
-      "https://nova-static.yostar.cn/res/and/147/810a057adba941ec272116e29cdcb264/p_7_u.ui_transitionex.unity3d",
-      "https://nova-static.yostar.cn/res/and/147/810a057adba941ec272116e29cdcb264/ss_and_add.mani"
+      "https://nova-static.yostar.cn/res/and/147/810a057adba941ec272116e29cdcb264/p_7_u.ui_transitionex.unity3d"
     ]
   },
   "148": {
@@ -29040,8 +29031,66 @@
       "https://nova-static.yostar.cn/res/and/149/ca12244602a67f2174992dfae3fdfda3/p_9_u.hotfix.arch",
       "https://nova-static.yostar.cn/res/and/149/ca12244602a67f2174992dfae3fdfda3/p_9_u.storyactivity_17_boss_d_01_assets.unity3d",
       "https://nova-static.yostar.cn/res/and/149/ca12244602a67f2174992dfae3fdfda3/p_9_u.ui_dorm.unity3d",
-      "https://nova-static.yostar.cn/res/and/149/ca12244602a67f2174992dfae3fdfda3/p_9_u.ui_soldier.unity3d",
-      "https://nova-static.yostar.cn/res/and/149/ca12244602a67f2174992dfae3fdfda3/ss_and.mani"
+      "https://nova-static.yostar.cn/res/and/149/ca12244602a67f2174992dfae3fdfda3/p_9_u.ui_soldier.unity3d"
+    ]
+  },
+  "151": {
+    "cedc34324b94ca642c9968496d6f8020": [
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_m.ss_and.mani",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_n.1057454524.media.wem",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_n.191820588.media.wem",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_n.379441973.media.wem",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_n.char_2d_10803.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_n.char_l2d_10803.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_n.image-e4.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.1062780399.media.wem",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.391828197.media.wem",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.459044822.media.wem",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.AVG.bnk",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.Home.bnk",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.Music_AVG.bnk",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.Music_Outfit.bnk",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.Music_System.bnk",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.and.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.audio.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.cg_2019.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.char_2d_16101.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.char_avg_2d_avg1_161.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.char_avg_2d_avg3_100.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.char_l2d_16101.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.data.arcx",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.hotfix.arch",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.icon-0.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.icon-2.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.icon-3.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.icon-4.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.icon-5.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.icon-6.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.icon-7.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.icon-8.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.icon-9.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.icon-a.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.icon-c.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.icon-e.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.icon-f.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.imageavg-81.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.lua.arcx",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.roguelike_4_boss_002_assets.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.storyactivity_17_boss_d_01_assets.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.storyactivity_9_boss_hasana_assets.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.ui_activity__201019.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.ui_big_sprites.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.ui_dorm.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_10_u.ui_soldier.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_11_m.ss_and.mani",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_11_u.and.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_11_u.data.arcx",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_11_u.hotfix.arch",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_11_u.storyactivity_17_boss_d_01_assets.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_11_u.ui_dorm.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/p_11_u.ui_soldier.unity3d",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/ss_and.mani",
+      "https://nova-static.yostar.cn/res/and/151/cedc34324b94ca642c9968496d6f8020/ss_and_add.mani"
     ]
   }
 }
