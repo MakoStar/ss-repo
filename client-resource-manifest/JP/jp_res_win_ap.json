@@ -19793,14 +19793,10 @@
   },
   "140": {
     "7382081204094db26ab7713a67aac503": [
-      "https://nova-static.stellasora.jp/res/win/140/7382081204094db26ab7713a67aac503/p_10_m.ss_win.mani",
       "https://nova-static.stellasora.jp/res/win/140/7382081204094db26ab7713a67aac503/p_10_u.char_10704.unity3d",
       "https://nova-static.stellasora.jp/res/win/140/7382081204094db26ab7713a67aac503/p_10_u.char_10704_animations.unity3d",
       "https://nova-static.stellasora.jp/res/win/140/7382081204094db26ab7713a67aac503/p_10_u.char_10704_timeline.unity3d",
-      "https://nova-static.stellasora.jp/res/win/140/7382081204094db26ab7713a67aac503/p_10_u.data.arcx",
-      "https://nova-static.stellasora.jp/res/win/140/7382081204094db26ab7713a67aac503/p_10_u.hotfix.arch",
       "https://nova-static.stellasora.jp/res/win/140/7382081204094db26ab7713a67aac503/p_10_u.jointdrill_03.unity3d",
-      "https://nova-static.stellasora.jp/res/win/140/7382081204094db26ab7713a67aac503/p_10_u.lua.arcx",
       "https://nova-static.stellasora.jp/res/win/140/7382081204094db26ab7713a67aac503/p_10_u.mons_72012moshushi_nv.unity3d",
       "https://nova-static.stellasora.jp/res/win/140/7382081204094db26ab7713a67aac503/p_10_u.mons_72012moshushi_nv_fx.unity3d",
       "https://nova-static.stellasora.jp/res/win/140/7382081204094db26ab7713a67aac503/p_10_u.ui_activity__400016.unity3d",
@@ -19813,8 +19809,7 @@
       "https://nova-static.stellasora.jp/res/win/140/7382081204094db26ab7713a67aac503/p_10_u.ui_mall.jp.unity3d",
       "https://nova-static.stellasora.jp/res/win/140/7382081204094db26ab7713a67aac503/p_10_u.ui_mall.unity3d",
       "https://nova-static.stellasora.jp/res/win/140/7382081204094db26ab7713a67aac503/p_10_u.ui_play_penguincard.jp.unity3d",
-      "https://nova-static.stellasora.jp/res/win/140/7382081204094db26ab7713a67aac503/p_10_u.ui_play_penguincard.unity3d",
-      "https://nova-static.stellasora.jp/res/win/140/7382081204094db26ab7713a67aac503/p_10_u.win.unity3d"
+      "https://nova-static.stellasora.jp/res/win/140/7382081204094db26ab7713a67aac503/p_10_u.ui_play_penguincard.unity3d"
     ]
   },
   "141": {
@@ -29345,8 +29340,7 @@
       "https://nova-static.stellasora.jp/res/win/149/ebd03770bc0f469a768110fd7e1c8a1e/p_7_m.ss_win.mani",
       "https://nova-static.stellasora.jp/res/win/149/ebd03770bc0f469a768110fd7e1c8a1e/p_7_u.data.arcx",
       "https://nova-static.stellasora.jp/res/win/149/ebd03770bc0f469a768110fd7e1c8a1e/p_7_u.hotfix.arch",
-      "https://nova-static.stellasora.jp/res/win/149/ebd03770bc0f469a768110fd7e1c8a1e/p_7_u.lua.arcx",
-      "https://nova-static.stellasora.jp/res/win/149/ebd03770bc0f469a768110fd7e1c8a1e/ss_win_add.mani"
+      "https://nova-static.stellasora.jp/res/win/149/ebd03770bc0f469a768110fd7e1c8a1e/p_7_u.lua.arcx"
     ]
   },
   "151": {
@@ -29363,8 +29357,65 @@
       "https://nova-static.stellasora.jp/res/win/152/af9501a9c0d597e1675fbd05fabed345/p_9_u.char_16101_weapons.unity3d",
       "https://nova-static.stellasora.jp/res/win/152/af9501a9c0d597e1675fbd05fabed345/p_9_u.data.arcx",
       "https://nova-static.stellasora.jp/res/win/152/af9501a9c0d597e1675fbd05fabed345/p_9_u.hotfix.arch",
-      "https://nova-static.stellasora.jp/res/win/152/af9501a9c0d597e1675fbd05fabed345/p_9_u.win.unity3d",
-      "https://nova-static.stellasora.jp/res/win/152/af9501a9c0d597e1675fbd05fabed345/ss_win.mani"
+      "https://nova-static.stellasora.jp/res/win/152/af9501a9c0d597e1675fbd05fabed345/p_9_u.win.unity3d"
+    ]
+  },
+  "153": {
+    "23471b153418f25128655d432ced89b8": [
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_m.ss_win.mani",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_n.1057454524.media.wem",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_n.191820588.media.wem",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_n.379441973.media.wem",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_n.char_2d_10803.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_n.char_l2d_10803.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_n.image-e4.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.1062780399.media.wem",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.391828197.media.wem",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.459044822.media.wem",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.AVG.bnk",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.Home.bnk",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.Music_AVG.bnk",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.Music_Outfit.bnk",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.Music_System.bnk",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.audio.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.cg_2019.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.char_2d_16101.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.char_avg_2d_avg1_161.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.char_avg_2d_avg3_100.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.char_l2d_16101.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.data.arcx",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.font.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.hotfix.arch",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.icon-0.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.icon-2.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.icon-3.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.icon-4.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.icon-5.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.icon-6.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.icon-7.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.icon-8.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.icon-9.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.icon-a.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.icon-c.jp.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.icon-c.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.icon-e.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.icon-f.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.imageavg-81.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.lua.arcx",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.mons_30931hasana_fx.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.res_meta.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.roguelike_4_boss_002_assets.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.storyactivity_17_boss_d_01_assets.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.storyactivity_9_boss_hasana_assets.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.ui_activity__201019.jp.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.ui_activity__201019.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.ui_big_sprites.jp.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.ui_big_sprites.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.ui_dorm.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.ui_soldier.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/p_10_u.win.unity3d",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/ss_win.mani",
+      "https://nova-static.stellasora.jp/res/win/153/23471b153418f25128655d432ced89b8/ss_win_add.mani"
     ]
   }
 }
