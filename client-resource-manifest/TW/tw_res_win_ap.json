@@ -19930,10 +19930,7 @@
       "https://nova-static.stargazer-games.com/res/win/143/a506d8ccb1c53e6b10b2138c98aac6d3/p_8_u.ui_startowerbuild.unity3d",
       "https://nova-static.stargazer-games.com/res/win/143/a506d8ccb1c53e6b10b2138c98aac6d3/p_8_u.ui_transitionex.unity3d",
       "https://nova-static.stargazer-games.com/res/win/143/a506d8ccb1c53e6b10b2138c98aac6d3/p_8_u.ui_vampirebattle.tw.unity3d",
-      "https://nova-static.stargazer-games.com/res/win/143/a506d8ccb1c53e6b10b2138c98aac6d3/p_8_u.ui_vampirebattle.unity3d",
-      "https://nova-static.stargazer-games.com/res/win/143/a506d8ccb1c53e6b10b2138c98aac6d3/p_9_m.ss_win.mani",
-      "https://nova-static.stargazer-games.com/res/win/143/a506d8ccb1c53e6b10b2138c98aac6d3/p_9_u.data.arcx",
-      "https://nova-static.stargazer-games.com/res/win/143/a506d8ccb1c53e6b10b2138c98aac6d3/p_9_u.hotfix.arch"
+      "https://nova-static.stargazer-games.com/res/win/143/a506d8ccb1c53e6b10b2138c98aac6d3/p_8_u.ui_vampirebattle.unity3d"
     ]
   },
   "146": {
@@ -29494,8 +29491,7 @@
       "https://nova-static.stargazer-games.com/res/win/155/4790d00b9e53354698cc58092b2bb8c5/p_6_u.ui_startowerbuild.tw.unity3d",
       "https://nova-static.stargazer-games.com/res/win/155/4790d00b9e53354698cc58092b2bb8c5/p_6_u.ui_startowerbuild.unity3d",
       "https://nova-static.stargazer-games.com/res/win/155/4790d00b9e53354698cc58092b2bb8c5/p_6_u.ui_transitionex.unity3d",
-      "https://nova-static.stargazer-games.com/res/win/155/4790d00b9e53354698cc58092b2bb8c5/p_6_u.win.unity3d",
-      "https://nova-static.stargazer-games.com/res/win/155/4790d00b9e53354698cc58092b2bb8c5/ss_win_add.mani"
+      "https://nova-static.stargazer-games.com/res/win/155/4790d00b9e53354698cc58092b2bb8c5/p_6_u.win.unity3d"
     ]
   },
   "156": {
@@ -29512,8 +29508,65 @@
       "https://nova-static.stargazer-games.com/res/win/157/59172d92c942422f3cba1bac7f03e311/p_8_u.char_16101_weapons.unity3d",
       "https://nova-static.stargazer-games.com/res/win/157/59172d92c942422f3cba1bac7f03e311/p_8_u.data.arcx",
       "https://nova-static.stargazer-games.com/res/win/157/59172d92c942422f3cba1bac7f03e311/p_8_u.hotfix.arch",
-      "https://nova-static.stargazer-games.com/res/win/157/59172d92c942422f3cba1bac7f03e311/p_8_u.win.unity3d",
-      "https://nova-static.stargazer-games.com/res/win/157/59172d92c942422f3cba1bac7f03e311/ss_win.mani"
+      "https://nova-static.stargazer-games.com/res/win/157/59172d92c942422f3cba1bac7f03e311/p_8_u.win.unity3d"
+    ]
+  },
+  "158": {
+    "d3f53452b55fd1084ab540a03ff5868e": [
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_m.ss_win.mani",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_n.1057454524.media.wem",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_n.191820588.media.wem",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_n.379441973.media.wem",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_n.char_2d_10803.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_n.char_l2d_10803.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_n.image-e4.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.1062780399.media.wem",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.391828197.media.wem",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.459044822.media.wem",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.AVG.bnk",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.Home.bnk",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.Music_AVG.bnk",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.Music_Outfit.bnk",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.Music_System.bnk",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.audio.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.cg_2019.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.char_2d_16101.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.char_avg_2d_avg1_161.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.char_avg_2d_avg3_100.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.char_l2d_16101.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.data.arcx",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.font.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.hotfix.arch",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.icon-0.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.icon-2.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.icon-3.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.icon-4.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.icon-5.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.icon-6.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.icon-7.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.icon-8.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.icon-9.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.icon-a.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.icon-c.tw.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.icon-c.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.icon-e.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.icon-f.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.imageavg-81.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.lua.arcx",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.mons_30931hasana_fx.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.res_meta.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.roguelike_4_boss_002_assets.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.storyactivity_17_boss_d_01_assets.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.storyactivity_9_boss_hasana_assets.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.ui_activity__201019.tw.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.ui_activity__201019.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.ui_big_sprites.tw.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.ui_big_sprites.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.ui_dorm.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.ui_soldier.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/p_9_u.win.unity3d",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/ss_win.mani",
+      "https://nova-static.stargazer-games.com/res/win/158/d3f53452b55fd1084ab540a03ff5868e/ss_win_add.mani"
     ]
   }
 }

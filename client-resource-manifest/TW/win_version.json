@@ -1,9 +1,9 @@
 {
     "TW": {
         "client_ver": "2.0.0",
-        "game_ver": "2.1.0",
-        "patch_num": "8",
-        "patch_ver": "157",
-        "version_str": "[c2.0.0_g2.1.0_p8]"
+        "game_ver": "2.1.1",
+        "patch_num": "9",
+        "patch_ver": "158",
+        "version_str": "[c2.0.0_g2.1.1_p9]"
     }
 }
